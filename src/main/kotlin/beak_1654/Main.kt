@@ -1,5 +1,6 @@
 package beak_1654
 
+// https://www.notion.so/da62867f2b1a4852aa8cefd46844fa84?pvs=4
 fun main(args: Array<String>) {
     val s = readLine()!!.split(" ")
     val k = s[0].toInt()
